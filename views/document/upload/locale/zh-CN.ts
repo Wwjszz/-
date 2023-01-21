@@ -1,0 +1,18 @@
+export default {
+  'menu.document.upload': '上传文档',
+  'document.create.title': '文档标题',
+  'document.create.major': '文档专业',
+  'document.create.video': '文档视频',
+  'document.create.article': '文档文章',
+  'document.create.content': '文章内容',
+  'document.create.uploadVideo': '上传视频',
+  'document.create.videoUpload': '视频上传',
+  'document.create.submit': '文档提交',
+  'document.create.save': '文档保存',
+  'document.create.status.warning': '未进行核对',
+  'document.create.status.success': '核对成功',
+  'document.create.result.save': '保存',
+  'document.create.result.submit': '提交',
+  'document.create.result.check': '核对',
+  'document.create.result': '提交页',
+};
