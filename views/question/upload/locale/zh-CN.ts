@@ -1,0 +1,18 @@
+export default {
+  'menu.question.upload': '上传试题',
+  'question.create': '创建题目',
+  'question.create.base': '题目大概',
+  'question.create.title': '题目标题',
+  'question.create.info': '题目描述',
+  'question.create.type': '题目类型',
+  'question.create.answer': '题目答案',
+  'question.create.major': '题目专业',
+  'question.create.tag': '题目标签',
+  'question.create.difficulty': '题目难度',
+  'question.create.description': '题目题干',
+  'question.create.description.default': '在此输入题目题干',
+  'question.tag': '题目标签',
+  'question.type': '题目类型',
+  'question.major': '题目专业',
+  'question.create.submit': '提交',
+};

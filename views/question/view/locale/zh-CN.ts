@@ -1,0 +1,18 @@
+export default {
+  'menu.question.view': '查看试题',
+  'question.list': '试题库',
+  'question.columns.id': '#',
+  'question.columns.title': '标题',
+  'question.columns.rate': '通过率',
+  'question.columns.difficulty': '难度',
+  'question.columns.major': '专业',
+  'question.difficulty.easy': '简单',
+  'question.difficulty.medium': '中等',
+  'question.difficulty.hard': '困难',
+  'question.difficulty.none': '暂无',
+  'question.search.text': '搜索题号、标题、难度、专业、知识点',
+  'question.title': '交运通题库',
+  'question.pass': '总通过数',
+  'question.attempt': '总尝试数',
+  'question.tags': '题目标签',
+};
